@@ -3097,10 +3097,6 @@ http://de.online24.pm/play/6879/CD458EA29E4F12B/video.m3u8
 http://de.online24.pm/play/290/CD458EA29E4F12B/video.m3u8
 #EXTINF:0 tvg-name="Private TV" group-title="Adult 18+",Private TV
 http://de.online24.pm/play/793/CD458EA29E4F12B/video.m3u8
-#EXTINF:0 tvg-name="Exxxotica HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Adult 18+",Exxxotica HD
-http://de.online24.pm/play/611/CD458EA29E4F12B/video.m3u8
-#EXTINF:0 tvg-name="Шелк" group-title="Adult 18+",Шелк
-http://de.online24.pm/play/7310/CD458EA29E4F12B/video.m3u8
 #EXTINF:0 tvg-name="Redlight HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Adult 18+",Redlight HD
 http://de.online24.pm/play/594/CD458EA29E4F12B/video.m3u8
 #EXTINF:0 tvg-name="Penthouse Quickies HD" group-title="Adult 18+",Penthouse Quickies HD
@@ -3117,8 +3113,6 @@ http://de.online24.pm/play/6880/CD458EA29E4F12B/video.m3u8
 http://de.online24.pm/play/1768/CD458EA29E4F12B/video.m3u8
 #EXTINF:0 tvg-name="Eromania 4K" group-title="Adult 18+",Eromania 4K
 http://de.online24.pm/play/1703/CD458EA29E4F12B/video.m3u8
-#EXTINF:0 tvg-name="Kinoshka Adult HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Adult 18+",Kinoshka Adult HD
-http://de.online24.pm/play/9997/CD458EA29E4F12B/video.m3u8
 #EXTINF:0 tvg-name="Liberty Эротика HD" group-title="Adult 18+",Liberty Эротика HD
 http://de.online24.pm/play/7080/CD458EA29E4F12B/video.m3u8
 #EXTINF:0 tvg-name="BCU Charm HD" group-title="Adult 18+",BCU Charm HD
