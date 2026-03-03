@@ -241,8 +241,6 @@ http://bde.online24.pm/play/195/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/196/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Душевное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Dushevnoe HD
 http://bde.online24.pm/play/370/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Наш Кинопоказ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Nash Kynopokaz HD
-http://bde.online24.pm/play/4475/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="KION Хит" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",KION Khyt
 http://bde.online24.pm/play/1654/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Хит HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Khyt HD
@@ -1131,8 +1129,6 @@ http://bde.online24.pm/play/50043/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/50045/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Joker:Гріфіни" group-title="Kinozaly UA",Joker:Hrifiny
 http://bde.online24.pm/play/50047/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Joker:Русалочка" group-title="Kinozaly UA",Joker:Rusalochka
-http://bde.online24.pm/play/50097/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Joker:Аладдін" group-title="Kinozaly UA",Joker:Aladdin
 http://bde.online24.pm/play/50098/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Joker:Чіп та Дейл" group-title="Kinozaly UA",Joker:Chip ta Deyl
@@ -1357,8 +1353,6 @@ http://bde.online24.pm/play/7090/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1851/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Netflix 4K" group-title="Kino 4K",Liberty Netflix 4K
 http://bde.online24.pm/play/1852/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Liberty Русфильм 4K" group-title="Kino 4K",Liberty Rusfylm 4K
-http://bde.online24.pm/play/1850/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Семейный 4K" group-title="Kino 4K",Liberty Semeynyy 4K
 http://bde.online24.pm/play/1853/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Триллеры 4K" group-title="Kino 4K",Liberty Tryllery 4K
@@ -1903,8 +1897,6 @@ http://bde.online24.pm/play/155/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/135/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Планета HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Planeta HD
 http://bde.online24.pm/play/374/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Совершенно секретно" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Sovershenno sekretno
-http://bde.online24.pm/play/224/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Кто есть кто" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Kto est kto
 http://bde.online24.pm/play/214/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="История" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Ystoryya
@@ -2301,8 +2293,6 @@ http://bde.online24.pm/play/606/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/67/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Мультимузыка" group-title="Muzychni",Multymuzyka
 http://bde.online24.pm/play/156/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="RU.TV" group-title="Muzychni",RU.TV
-http://bde.online24.pm/play/63/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Музыка" group-title="Muzychni",Muzyka
 http://bde.online24.pm/play/133/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Music Box" group-title="Muzychni",Music Box
@@ -2411,8 +2401,6 @@ http://bde.online24.pm/play/1682/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/5739/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Eska Rock TV HD" group-title="Muzychni",Eska Rock TV HD
 http://bde.online24.pm/play/5601/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="KBC-НАШ ROCK" catchup="shift" timeshift="5" catchup-days="5" group-title="Muzychni",KBC-NASh ROCK
-http://bde.online24.pm/play/8838/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="YOSSO TV Music Hits" group-title="Muzychni",YOSSO TV Music Hits
 http://bde.online24.pm/play/8771/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BOX Music 4K" group-title="Muzychni",BOX Music 4K
@@ -3353,8 +3341,6 @@ http://bde.online24.pm/play/426/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1900/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Pirveli" catchup="shift" timeshift="5" catchup-days="5" group-title="Hruziya",Pirveli
 http://bde.online24.pm/play/423/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Rustavi 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Hruziya",Rustavi 2
-http://bde.online24.pm/play/420/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Qartuli TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Hruziya",Qartuli TV
 http://bde.online24.pm/play/424/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Qartuli Arkhi" catchup="shift" timeshift="5" catchup-days="5" group-title="Hruziya",Qartuli Arkhi
