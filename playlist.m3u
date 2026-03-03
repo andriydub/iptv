@@ -141,8 +141,6 @@ http://bde.online24.pm/play/9905/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/9956/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Бігуді" catchup="shift" timeshift="5" catchup-days="5" group-title="Ukrayinski",Bihudi
 http://bde.online24.pm/play/2625/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Первый Автомобильный" catchup="shift" timeshift="5" catchup-days="5" group-title="Ukrayinski",Pervyy Avtomobylnyy
-http://bde.online24.pm/play/8869/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Ревізор" group-title="Ukrayinski",Revizor
 http://bde.online24.pm/play/1955/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Исландия" catchup="shift" timeshift="5" catchup-days="5" group-title="Ukrayinski",Yslandyya
@@ -169,8 +167,6 @@ http://bde.online24.pm/play/9909/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/6220/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="UA: Херсон" group-title="Ukrayinski",UA: Kherson
 http://bde.online24.pm/play/8805/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Первый городской Одесса" catchup="shift" timeshift="5" catchup-days="5" group-title="Ukrayinski",Pervyy horodskoy Odessa
-http://bde.online24.pm/play/9915/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="ПТРК (Павлоград)" group-title="Ukrayinski",PTRK (Pavlohrad)
 http://bde.online24.pm/play/1956/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="НТК КОЛОМИЯ" group-title="Ukrayinski",NTK KOLOMYYa
@@ -203,8 +199,6 @@ http://bde.online24.pm/play/8803/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1995/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="ITV HD (Рівне)" group-title="Ukrayinski",ITV HD (Rivne)
 http://bde.online24.pm/play/1996/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Первый городской (Кривой Рог)" group-title="Ukrayinski",Pervyy horodskoy (Kryvoy Roh)
-http://bde.online24.pm/play/8801/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Сварожичи" group-title="Ukrayinski",Svarozhychy
 http://bde.online24.pm/play/9947/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="СК1" group-title="Ukrayinski",SK1
@@ -247,12 +241,8 @@ http://bde.online24.pm/play/195/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/196/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Душевное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Dushevnoe HD
 http://bde.online24.pm/play/370/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Наше крутое HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Nashe krutoe HD
-http://bde.online24.pm/play/369/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Наш Кинопоказ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Nash Kynopokaz HD
 http://bde.online24.pm/play/4475/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Наше Мужское HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Nashe Muzhskoe HD
-http://bde.online24.pm/play/4777/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="KION Хит" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",KION Khyt
 http://bde.online24.pm/play/1654/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Хит HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Khyt HD
@@ -363,10 +353,6 @@ http://bde.online24.pm/play/84/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/285/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Comedy Central" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Comedy Central
 http://bde.online24.pm/play/181/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="НТВ Сериал" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",NTV Seryal
-http://bde.online24.pm/play/784/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="НТВ Хит" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",NTV Khyt
-http://bde.online24.pm/play/3781/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Кинопоказ" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Kynopokaz
 http://bde.online24.pm/play/129/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Киносат" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Kynosat
@@ -501,40 +487,22 @@ http://bde.online24.pm/play/113/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/6156/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Кинеко" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Kyneko
 http://bde.online24.pm/play/6155/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Родное кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Rodnoe kyno
-http://bde.online24.pm/play/12/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Дом Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Dom Kyno
 http://bde.online24.pm/play/42/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Дом кино премиум HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Dom kyno premyum HD
 http://bde.online24.pm/play/931/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Еврокино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Evrokyno
 http://bde.online24.pm/play/96/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Русский Иллюзион" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Russkyy Yllyuzyon
-http://bde.online24.pm/play/201/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Мосфильм. Золотая коллекция" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Mosfylm. Zolotaya kollektsyya
 http://bde.online24.pm/play/9912/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Мосфильм HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Mosfylm HD
 http://bde.online24.pm/play/4985/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Иллюзион +" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Yllyuzyon +
 http://bde.online24.pm/play/202/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Мужское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Muzhskoe kyno
-http://bde.online24.pm/play/209/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Наше новое кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Nashe novoe kyno
-http://bde.online24.pm/play/35/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Trash TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Trash TV
 http://bde.online24.pm/play/4830/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Советское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Sovetskoe kyno
-http://bde.online24.pm/play/9926/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Победа" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Pobeda
-http://bde.online24.pm/play/3770/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="День Победы HD" group-title="Kino",Den Pobedy HD
-http://bde.online24.pm/play/5745/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Komedyya
 http://bde.online24.pm/play/280/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Русский бестселлер" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Russkyy bestseller
-http://bde.online24.pm/play/281/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Русский детектив" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Russkyy detektyv
-http://bde.online24.pm/play/282/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Киномикс" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Kynomyks
 http://bde.online24.pm/play/167/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Киносерия" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Kynoseryya
@@ -601,10 +569,6 @@ http://bde.online24.pm/play/7114/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/7115/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BCU Survival HD" group-title="Kinozaly",BCU Survival HD
 http://bde.online24.pm/play/7116/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="BCU СВАТЫ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",BCU SVATY HD
-http://bde.online24.pm/play/7127/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="BCU Ruserial HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",BCU Ruserial HD
-http://bde.online24.pm/play/7119/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BCU Cosmo HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",BCU Cosmo HD
 http://bde.online24.pm/play/7137/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BCU Criminal HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",BCU Criminal HD
@@ -639,8 +603,6 @@ http://bde.online24.pm/play/7059/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/7060/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty BBC HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",Liberty BBC HD
 http://bde.online24.pm/play/7061/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Liberty Сваты HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",Liberty Svaty HD
-http://bde.online24.pm/play/7062/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Занавес HD" group-title="Kinozaly",Liberty Zanaves HD
 http://bde.online24.pm/play/7070/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Шоу HD" group-title="Kinozaly",Liberty Shou HD
@@ -727,8 +689,6 @@ http://bde.online24.pm/play/8856/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/8779/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="YOSSO TV VHS" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",YOSSO TV VHS
 http://bde.online24.pm/play/8778/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="YOSSO TV Русские фильмы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",YOSSO TV Russkye fylmy
-http://bde.online24.pm/play/8776/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="YOSSO TV New Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",YOSSO TV New Kyno
 http://bde.online24.pm/play/8773/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="YOSSO TV Трагичное" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",YOSSO TV Trahychnoe
@@ -815,8 +775,6 @@ http://bde.online24.pm/play/13013/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/13014/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Комедийные сериалы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Komedyynye seryaly
 http://bde.online24.pm/play/13030/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Сваты" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Svaty
-http://bde.online24.pm/play/13015/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Thriller
 http://bde.online24.pm/play/13016/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Top" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Top
@@ -919,8 +877,6 @@ http://bde.online24.pm/play/2063/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/2064/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="DITV Агент национальной безопасности" group-title="Kinozaly",DITV Ahent natsyonalnoy bezopasnosty
 http://bde.online24.pm/play/2067/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="DITV Пятницкий" group-title="Kinozaly",DITV Pyatnytskyy
-http://bde.online24.pm/play/2068/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="DITV Game of Thrones" group-title="Kinozaly",DITV Game of Thrones
 http://bde.online24.pm/play/2069/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="DITV Счастливы вместе" group-title="Kinozaly",DITV Schastlyvy vmeste
@@ -1021,8 +977,6 @@ http://bde.online24.pm/play/6033/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/6034/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MM Роскино HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Roskyno HD
 http://bde.online24.pm/play/6035/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="MM Сваты HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Svaty HD
-http://bde.online24.pm/play/6036/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MM Семейный 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Semeynyy 1 HD
 http://bde.online24.pm/play/6037/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MM Семейный 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Semeynyy 2 HD
@@ -1087,8 +1041,6 @@ http://bde.online24.pm/play/1732/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1733/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Kernel TV Магия" group-title="Kinozaly",Kernel TV Mahyya
 http://bde.online24.pm/play/1734/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Kernel TV Время" group-title="Kinozaly",Kernel TV Vremya
-http://bde.online24.pm/play/1735/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Kernel TV Герой" group-title="Kinozaly",Kernel TV Heroy
 http://bde.online24.pm/play/1736/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="TOP: MIX" group-title="Kinozaly",TOP: MIX
@@ -1429,8 +1381,6 @@ http://bde.online24.pm/play/1857/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1858/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Куб 4K" group-title="Kino 4K",Liberty Kub 4K
 http://bde.online24.pm/play/1859/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Liberty Союз 4K" group-title="Kino 4K",Liberty Soyuz 4K
-http://bde.online24.pm/play/1860/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty XX век 4K" group-title="Kino 4K",Liberty XX vek 4K
 http://bde.online24.pm/play/1862/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Аванпост 4K" group-title="Kino 4K",Liberty Avanpost 4K
@@ -1521,10 +1471,6 @@ http://bde.online24.pm/play/397/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/680/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Матч! Боец HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",Match! Boets HD
 http://bde.online24.pm/play/30/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="МАТЧ! Страна" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",MATCh! Strana
-http://bde.online24.pm/play/134/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Матч! Страна HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",Match! Strana HD
-http://bde.online24.pm/play/212/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",Match! Yhra
 http://bde.online24.pm/play/153/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",Match! Yhra HD
@@ -1633,8 +1579,6 @@ http://bde.online24.pm/play/480/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/2635/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Equalympic HD" group-title="Sport",Equalympic HD
 http://bde.online24.pm/play/8788/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Русский Экстрим" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",Russkyy Ekstrym
-http://bde.online24.pm/play/345/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Точка отрыва" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",Tochka otryva
 http://bde.online24.pm/play/601/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5" group-title="Sport",Avto 24
@@ -1935,24 +1879,8 @@ http://bde.online24.pm/play/297/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/324/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Живая планета" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Zhyvaya planeta
 http://bde.online24.pm/play/390/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Рыболов" group-title="Piznavalni",Rybolov
-http://bde.online24.pm/play/613/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Охотник и рыболов HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Okhotnyk y rybolov HD
-http://bde.online24.pm/play/364/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Охота и Рыбалка" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Okhota y Rybalka
-http://bde.online24.pm/play/88/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Рыбалка HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Rybalka HD
-http://bde.online24.pm/play/9967/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Диалоги о рыбалке" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Dyalohy o rybalke
-http://bde.online24.pm/play/4370/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Дикая охота HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Dykaya okhota HD
-http://bde.online24.pm/play/3742/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Дикая рыбалка HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Dykaya rybalka HD
-http://bde.online24.pm/play/3743/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Continent E" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Continent E
 http://bde.online24.pm/play/26/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Трофей HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Trofey HD
-http://bde.online24.pm/play/9939/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Загородная Жизнь" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Zahorodnaya Zhyzn
 http://bde.online24.pm/play/303/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Загородный" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Zahorodnyy
@@ -1975,8 +1903,6 @@ http://bde.online24.pm/play/1661/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/600/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Арсенал HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Arsenal HD
 http://bde.online24.pm/play/387/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Мужской" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Muzhskoy
-http://bde.online24.pm/play/229/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Наука 2.0" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Nauka 2.0
 http://bde.online24.pm/play/155/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Моя Планета" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Moya Planeta
@@ -2023,8 +1949,6 @@ http://bde.online24.pm/play/337/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/247/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="В мире животных HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",V myre zhyvotnykh HD
 http://bde.online24.pm/play/372/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Первый Космический HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",Pervyy Kosmycheskyy HD
-http://bde.online24.pm/play/373/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Quiz TV" group-title="Piznavalni",Quiz TV
 http://bde.online24.pm/play/2636/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Світло HD" group-title="Piznavalni",Svitlo HD
@@ -2045,8 +1969,6 @@ http://bde.online24.pm/play/2644/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/2643/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Загублений світ" group-title="Piznavalni",Zahublenyy svit
 http://bde.online24.pm/play/1773/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CGTN Русский" catchup="shift" timeshift="5" catchup-days="5" group-title="Piznavalni",CGTN Russkyy
-http://bde.online24.pm/play/8760/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BOX Docu HD" group-title="Piznavalni",BOX Docu HD
 http://bde.online24.pm/play/4216/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BOX Travel HD" group-title="Piznavalni",BOX Travel HD
@@ -2271,8 +2193,6 @@ http://bde.online24.pm/play/114/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/322/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Зал суда" group-title="Rizne",Zal suda
 http://bde.online24.pm/play/518/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="НТВ Право" catchup="shift" timeshift="5" catchup-days="5" group-title="Rizne",NTV Pravo
-http://bde.online24.pm/play/785/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Бобер" catchup="shift" timeshift="5" catchup-days="5" group-title="Rizne",Bober
 http://bde.online24.pm/play/396/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Закон" group-title="Rizne",Zakon
@@ -2293,12 +2213,8 @@ http://bde.online24.pm/play/333/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/38/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="FoodTime" catchup="shift" timeshift="5" catchup-days="5" group-title="Rizne",FoodTime
 http://bde.online24.pm/play/141/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Первый вегетарианский" group-title="Rizne",Pervyy vehetaryanskyy
-http://bde.online24.pm/play/335/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Food Network HD" group-title="Rizne",Food Network HD
 http://bde.online24.pm/play/9942/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Союз" catchup="shift" timeshift="5" catchup-days="5" group-title="Rizne",Soyuz
-http://bde.online24.pm/play/70/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Ретро" catchup="shift" timeshift="5" catchup-days="5" group-title="Rizne",Retro
 http://bde.online24.pm/play/87/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="ТБН" group-title="Rizne",TBN
@@ -2311,8 +2227,6 @@ http://bde.online24.pm/play/206/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/112/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Сарафан" catchup="shift" timeshift="5" catchup-days="5" group-title="Rizne",Sarafan
 http://bde.online24.pm/play/117/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Телеканал СПАС" group-title="Rizne",Telekanal SPAS
-http://bde.online24.pm/play/60/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Три Ангела" group-title="Rizne",Try Anhela
 http://bde.online24.pm/play/5377/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Angel TV" group-title="Rizne",Angel TV
@@ -2337,8 +2251,6 @@ http://bde.online24.pm/play/2645/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1890/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Fox News" group-title="Novyny",Fox News
 http://bde.online24.pm/play/6077/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="RT Doc" catchup="shift" timeshift="5" catchup-days="5" group-title="Novyny",RT Doc
-http://bde.online24.pm/play/249/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Мир 24" catchup="shift" timeshift="5" catchup-days="5" group-title="Novyny",Myr 24
 http://bde.online24.pm/play/236/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="France 24" group-title="Novyny",France 24
@@ -2409,18 +2321,12 @@ http://bde.online24.pm/play/9979/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/305/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Ля-минор" group-title="Muzychni",Lya-mynor
 http://bde.online24.pm/play/222/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Bridge TV русский хит" group-title="Muzychni",Bridge TV russkyy khyt
-http://bde.online24.pm/play/158/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MCM Top" group-title="Muzychni",MCM Top
 http://bde.online24.pm/play/45/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Viva Latino" group-title="Muzychni",Viva Latino
 http://bde.online24.pm/play/348/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Black" group-title="Muzychni",Black
 http://bde.online24.pm/play/349/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Наше Ретро" group-title="Muzychni",Nashe Retro
-http://bde.online24.pm/play/603/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Наше music HD" group-title="Muzychni",Nashe music HD
-http://bde.online24.pm/play/7184/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MusicBox UA HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Muzychni",MusicBox UA HD
 http://bde.online24.pm/play/7185/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="UA.Music HD" group-title="Muzychni",UA.Music HD
@@ -2429,8 +2335,6 @@ http://bde.online24.pm/play/351/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/7186/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Новое Радио" group-title="Muzychni",Novoe Radyo
 http://bde.online24.pm/play/5390/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Страна FM" group-title="Muzychni",Strana FM
-http://bde.online24.pm/play/5391/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Stars.TV" group-title="Muzychni",Stars.TV
 http://bde.online24.pm/play/1776/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="100% NL" group-title="Muzychni",100% NL
@@ -2451,8 +2355,6 @@ http://bde.online24.pm/play/1683/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1684/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Now 70s" group-title="Muzychni",Now 70s
 http://bde.online24.pm/play/1685/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Первый Музыкальный BY" group-title="Muzychni",Pervyy Muzykalnyy BY
-http://bde.online24.pm/play/9928/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Happy Radio" group-title="Muzychni",Happy Radio
 http://bde.online24.pm/play/8807/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Етно HD" group-title="Muzychni",Etno HD
@@ -2501,8 +2403,6 @@ http://bde.online24.pm/play/1991/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/5727/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Deluxe Music" group-title="Muzychni",Deluxe Music
 http://bde.online24.pm/play/1003/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Ment Pop" group-title="Muzychni",Ment Pop
-http://bde.online24.pm/play/8003/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Kino Polska Muzyka PL" group-title="Muzychni",Kino Polska Muzyka PL
 http://bde.online24.pm/play/1920/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="POP STAR" group-title="Muzychni",POP STAR
@@ -2563,8 +2463,6 @@ http://bde.online24.pm/play/1467/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/607/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Беларусь 24" group-title="Bilorus",Belarus 24
 http://bde.online24.pm/play/341/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="РТР HD" group-title="Bilorus",RTR HD
-http://bde.online24.pm/play/3789/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="СТВ" group-title="Bilorus",STV
 http://bde.online24.pm/play/1462/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="ОНТ HD" group-title="Bilorus",ONT HD
@@ -3683,8 +3581,6 @@ http://bde.online24.pm/play/1619/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1622/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="YTV" group-title="Kanada",YTV
 http://bde.online24.pm/play/1623/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="NTV Live Stream" group-title="Kanada",NTV Live Stream
-http://bde.online24.pm/play/994/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="ICI Television" group-title="Kanada",ICI Television
 http://bde.online24.pm/play/993/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Ontario Parliament Network Live Stream" group-title="Kanada",Ontario Parliament Network Live Stream
@@ -4063,8 +3959,6 @@ http://bde.online24.pm/play/962/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/8001/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Ketnet" group-title="Belhiya ta Niderlandy",Ketnet
 http://bde.online24.pm/play/8002/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Ment Pop" group-title="Belhiya ta Niderlandy",Ment Pop
-http://bde.online24.pm/play/8003/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Play4" group-title="Belhiya ta Niderlandy",Play4
 http://bde.online24.pm/play/8004/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Play5" group-title="Belhiya ta Niderlandy",Play5
@@ -4357,8 +4251,6 @@ http://bde.online24.pm/play/290/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/793/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Exxxotica HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Dlya doroslykh",Exxxotica HD
 http://bde.online24.pm/play/611/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Русская Ночь" catchup="shift" timeshift="5" catchup-days="5" group-title="Dlya doroslykh",Russkaya Noch
-http://bde.online24.pm/play/132/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Redlight HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Dlya doroslykh",Redlight HD
 http://bde.online24.pm/play/594/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Penthouse Quickies HD" group-title="Dlya doroslykh",Penthouse Quickies HD
@@ -4393,5 +4285,3 @@ http://bde.online24.pm/play/13021/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/4607/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Beate Uhse" group-title="Dlya doroslykh",Beate Uhse
 http://bde.online24.pm/play/685/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="TVPlay Наше XXX" group-title="Dlya doroslykh",TVPlay Nashe XXX
-http://bde.online24.pm/play/1769/3C397FC7DDCAC13/video.m3u8
