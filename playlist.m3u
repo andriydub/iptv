@@ -291,14 +291,10 @@ http://bde.online24.pm/play/7146/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1752/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Thriller HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Thriller HD
 http://bde.online24.pm/play/1753/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="РуКино HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",RuKyno HD
-http://bde.online24.pm/play/1754/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Serial HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Serial HD
 http://bde.online24.pm/play/1755/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Paradise HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Paradise HD
 http://bde.online24.pm/play/1756/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Victory HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Victory HD
-http://bde.online24.pm/play/1757/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Paradox HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Paradox HD
 http://bde.online24.pm/play/1759/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Insomnia HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Insomnia HD
@@ -765,8 +761,6 @@ http://bde.online24.pm/play/13009/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/13010/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Premium" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Premium
 http://bde.online24.pm/play/13011/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan РуКино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan RuKyno
-http://bde.online24.pm/play/13012/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan CCCP FHD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan CCCP FHD
 http://bde.online24.pm/play/13028/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Симпсоны" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Sympsony
