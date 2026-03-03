@@ -737,14 +737,12 @@ http://bde.online24.pm/play/13002/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/13003/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name=" Катастрофы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly", Katastrofy
 http://bde.online24.pm/play/13004/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Marvel
+#EXTINF:0 tvg-name=" Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly", Marvel
 http://bde.online24.pm/play/13006/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Melodrama" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Melodrama
+#EXTINF:0 tvg-name=" Melodrama" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly", Melodrama
 http://bde.online24.pm/play/13007/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan MiniSeries" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan MiniSeries
+#EXTINF:0 tvg-name=" MiniSeries" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly", MiniSeries
 http://bde.online24.pm/play/13009/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Пёс" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Pёs
-http://bde.online24.pm/play/13010/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Premium" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Premium
 http://bde.online24.pm/play/13011/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Симпсоны" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Sympsony
