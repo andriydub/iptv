@@ -729,42 +729,6 @@ http://bde.online24.pm/play/5151/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/5152/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MYTV HIT" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MYTV HIT
 http://bde.online24.pm/play/5154/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan
-http://bde.online24.pm/play/13001/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Action
-http://bde.online24.pm/play/13002/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Komedyya
-http://bde.online24.pm/play/13003/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Катастрофы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Katastrofy
-http://bde.online24.pm/play/13004/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Лесник" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Lesnyk
-http://bde.online24.pm/play/13005/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Marvel
-http://bde.online24.pm/play/13006/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Melodrama" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Melodrama
-http://bde.online24.pm/play/13007/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan MiniSeries" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan MiniSeries
-http://bde.online24.pm/play/13009/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Пёс" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Pёs
-http://bde.online24.pm/play/13010/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Premium" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Premium
-http://bde.online24.pm/play/13011/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan CCCP FHD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan CCCP FHD
-http://bde.online24.pm/play/13028/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Симпсоны" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Sympsony
-http://bde.online24.pm/play/13013/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Скорая помощь" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Skoraya pomoshch
-http://bde.online24.pm/play/13014/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Комедийные сериалы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Komedyynye seryaly
-http://bde.online24.pm/play/13030/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Thriller
-http://bde.online24.pm/play/13016/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Top" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Top
-http://bde.online24.pm/play/13017/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Ужасы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Uzhasy
-http://bde.online24.pm/play/13018/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan VHS" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan VHS
-http://bde.online24.pm/play/13019/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BOX Новогодний 4K HDR" group-title="Kinozaly",BOX Novohodnyy 4K HDR
 http://bde.online24.pm/play/2000/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BCU Biography HDR" group-title="Kinozaly",BCU Biography HDR
@@ -1317,8 +1281,6 @@ http://bde.online24.pm/play/7125/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/7140/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Кино UHD 4k" group-title="Kino 4K",Kyno UHD 4k
 http://bde.online24.pm/play/8842/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Relax 4K" group-title="Kino 4K",CineMan Relax 4K
-http://bde.online24.pm/play/13025/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Ultra HD Cinema 4k" group-title="Kino 4K",Ultra HD Cinema 4k
 http://bde.online24.pm/play/8844/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="BOX Premiere 4K" group-title="Kino 4K",BOX Premiere 4K
@@ -2131,8 +2093,6 @@ http://bde.online24.pm/play/4202/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/4206/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MM Walt Disney HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Dytyachi",MM Walt Disney HD
 http://bde.online24.pm/play/6016/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan KIDS 4K" group-title="Dytyachi",CineMan KIDS 4K
-http://bde.online24.pm/play/13031/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CPS Cartoon" group-title="Dytyachi",CPS Cartoon
 http://bde.online24.pm/play/1748/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Liberty Мульт 4K" group-title="Dytyachi",Liberty Mult 4K
