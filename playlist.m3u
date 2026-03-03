@@ -729,16 +729,14 @@ http://bde.online24.pm/play/5151/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/5152/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MYTV HIT" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MYTV HIT
 http://bde.online24.pm/play/5154/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan
+#EXTINF:0 tvg-name="" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",
 http://bde.online24.pm/play/13001/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Action
+#EXTINF:0 tvg-name=" Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly", Action
 http://bde.online24.pm/play/13002/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Komedyya
+#EXTINF:0 tvg-name=" Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly", Komedyya
 http://bde.online24.pm/play/13003/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Катастрофы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Katastrofy
+#EXTINF:0 tvg-name=" Катастрофы" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly", Katastrofy
 http://bde.online24.pm/play/13004/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="CineMan Лесник" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Lesnyk
-http://bde.online24.pm/play/13005/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Marvel
 http://bde.online24.pm/play/13006/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="CineMan Melodrama" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",CineMan Melodrama
