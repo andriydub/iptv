@@ -487,12 +487,8 @@ http://bde.online24.pm/play/42/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/931/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Еврокино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Evrokyno
 http://bde.online24.pm/play/96/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Мосфильм. Золотая коллекция" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Mosfylm. Zolotaya kollektsyya
-http://bde.online24.pm/play/9912/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Мосфильм HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Mosfylm HD
 http://bde.online24.pm/play/4985/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Иллюзион +" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Yllyuzyon +
-http://bde.online24.pm/play/202/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Trash TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Trash TV
 http://bde.online24.pm/play/4830/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Komedyya
@@ -501,10 +497,6 @@ http://bde.online24.pm/play/280/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/167/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Киносерия" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Kynoseryya
 http://bde.online24.pm/play/208/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Любимое кино HD" group-title="Kino",Lyubymoe kyno HD
-http://bde.online24.pm/play/279/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Любимое кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Lyubymoe kyno
-http://bde.online24.pm/play/342/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Мир сериала" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Myr seryala
 http://bde.online24.pm/play/291/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Cinema" catchup="shift" timeshift="5" catchup-days="5" group-title="Kino",Cinema
@@ -641,8 +633,6 @@ http://bde.online24.pm/play/1647/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/1648/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Fresh Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",Fresh Thriller
 http://bde.online24.pm/play/1687/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="KBC-В.О.В. HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",KBC-V.O.V. HD
-http://bde.online24.pm/play/8810/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="KBC-Comics HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",KBC-Comics HD
 http://bde.online24.pm/play/8811/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="KBC-Elite comedy's HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",KBC-Elite comedy's HD
@@ -867,8 +857,6 @@ http://bde.online24.pm/play/2062/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/2063/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="DITV Пёс" group-title="Kinozaly",DITV Pёs
 http://bde.online24.pm/play/2064/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="DITV Агент национальной безопасности" group-title="Kinozaly",DITV Ahent natsyonalnoy bezopasnosty
-http://bde.online24.pm/play/2067/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="DITV Game of Thrones" group-title="Kinozaly",DITV Game of Thrones
 http://bde.online24.pm/play/2069/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="DITV Счастливы вместе" group-title="Kinozaly",DITV Schastlyvy vmeste
@@ -965,8 +953,6 @@ http://bde.online24.pm/play/6031/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/6032/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MM Приключения HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Pryklyuchenyya HD
 http://bde.online24.pm/play/6034/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="MM Роскино HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Roskyno HD
-http://bde.online24.pm/play/6035/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MM Семейный 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Semeynyy 1 HD
 http://bde.online24.pm/play/6037/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="MM Семейный 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Kinozaly",MM Semeynyy 2 HD
@@ -1391,8 +1377,6 @@ http://bde.online24.pm/play/4605/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/4606/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Clarity4K Драмы" group-title="Kino 4K",Clarity4K Dramy
 http://bde.online24.pm/play/4608/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Clarity4k Военные" group-title="Kino 4K",Clarity4k Voennye
-http://bde.online24.pm/play/4609/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Clarity4K Вестерн" group-title="Kino 4K",Clarity4K Vestern
 http://bde.online24.pm/play/4610/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Clarity4K Семейный" group-title="Kino 4K",Clarity4K Semeynyy
@@ -2431,18 +2415,8 @@ http://bde.online24.pm/play/4612/3C397FC7DDCAC13/video.m3u8
 http://bde.online24.pm/play/4616/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="Clarity4K Bollywood music" group-title="Muzychni",Clarity4K Bollywood music
 http://bde.online24.pm/play/4629/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Беларусь 1" group-title="Bilorus",Belarus 1
-http://bde.online24.pm/play/1460/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Беларусь 2" group-title="Bilorus",Belarus 2
-http://bde.online24.pm/play/1465/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Беларусь 3" group-title="Bilorus",Belarus 3
-http://bde.online24.pm/play/1466/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Беларусь 5" group-title="Bilorus",Belarus 5
-http://bde.online24.pm/play/1467/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="БелРос HD" group-title="Bilorus",BelRos HD
 http://bde.online24.pm/play/607/3C397FC7DDCAC13/video.m3u8
-#EXTINF:0 tvg-name="Беларусь 24" group-title="Bilorus",Belarus 24
-http://bde.online24.pm/play/341/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="СТВ" group-title="Bilorus",STV
 http://bde.online24.pm/play/1462/3C397FC7DDCAC13/video.m3u8
 #EXTINF:0 tvg-name="ОНТ HD" group-title="Bilorus",ONT HD
